@@ -1,8 +1,22 @@
-# React + Vite
+# 🎬 YouTube Clone (React + YouTube Data API v3)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Preview Link: https://vidtube-sable.vercel.app/
 
-Currently, two official plugins are available:
+A frontend web application that replicates the core functionalities of YouTube — built using **React** and **YouTube Data API v3**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🎥 Display trending and category-based video feeds  
+- 🔍 Search functionality using YouTube API  
+- 📺 Video detail page showing likes, views, and comments  
+- 👤 Channel information (title, logo, subscribers)  
+- 🧭 React Router for smooth navigation  
+- 💻 Responsive and clean UI  
+
+## 🛠️ Technologies Used
+- React  
+- YouTube Data API v3  
+- Axios (for API calls)  
+- React Router  
+- CSS / Tailwind  
+
+## 📂 Folder Structure
